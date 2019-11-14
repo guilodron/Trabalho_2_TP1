@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1573754651 source:c:\users\guilo\documents\github\trabalho_2_tp1\main.cpp
+	<string.h>
+	"curses.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladoras.h"
+
+1573559559 c:\users\guilo\documents\github\trabalho_2_tp1\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1573755379 source:c:\users\guilo\documents\github\trabalho_2_tp1\dominios.cpp
+	"dominios.h"
+	<ctype.h>
+	<stdlib.h>
+	<iostream>
+	<cctype>
+	<string>
+	<regex>
+	<exception>
+
+1573606733 c:\users\guilo\documents\github\trabalho_2_tp1\dominios.h
+	<string>
+
+1569976213 source:c:\users\guilo\documents\github\trabalho_2_tp1\entidades.cpp
+	"entidades.h"
+
+1569976172 c:\users\guilo\documents\github\trabalho_2_tp1\entidades.h
+	"dominios.h"
+
+1573766070 c:\users\guilo\documents\github\trabalho_2_tp1\interfaces.h
+	"dominios.h"
+	"entidades.h"
+	<stdexcept>
+
+1573734910 c:\users\guilo\documents\github\trabalho_2_tp1\camada_apresentacao.h
+
+1573687794 source:c:\users\guilo\documents\github\trabalho_2_tp1\camada_apresentacao.cpp
+	"camada_apresentacao.h"
+	<iostream>
+
+1573770180 source:c:\users\guilo\documents\github\trabalho_2_tp1\controladoras.cpp
+	"controladoras.h"
+	"curses.h"
+	"telas.h"
+	<stdlib.h>
+
+1573766085 c:\users\guilo\documents\github\trabalho_2_tp1\controladoras.h
+	"interfaces.h"
+	"telas.h"
+
+1573752897 c:\users\guilo\documents\github\trabalho_2_tp1\telas.h
+
+1573765763 source:c:\users\guilo\documents\github\trabalho_2_tp1\telas.cpp
+	"curses.h"
+	"telas.h"
+
